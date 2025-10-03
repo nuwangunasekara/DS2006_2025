@@ -1,6 +1,6 @@
 # DS2006_2025
 
-## Setup your system
+## Setup your system 
 
 Run the commands below in your VS Code terminal (View --> Terminal) to set up your git system for the first time.
 
